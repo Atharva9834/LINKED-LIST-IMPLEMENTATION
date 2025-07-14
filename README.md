@@ -39,7 +39,7 @@ GCC compiler: installed via MinGW on Windows, to compile the C source file into 
 
 Windows PowerShell: as the terminal to compile and run the program.
 
-##OUTPUT
+#OUTPUT
 
 <img width="853" height="843" alt="Image" src="https://github.com/user-attachments/assets/25a0044c-919c-423c-94ed-4916ca218b77" />
 
